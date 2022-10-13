@@ -2,7 +2,7 @@
 # @Time : 2022/10/12 22:31
 # @Author : 宇哥/小夫
 # @Flie : data14_analysis
-# @Project : test2
+# @Project : 天气数据可视化
 
 # data14_analysis.py
 import matplotlib.pyplot as plt
